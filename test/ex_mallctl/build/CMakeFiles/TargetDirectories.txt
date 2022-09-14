@@ -1,0 +1,3 @@
+/data/gus-gu/research-jemalloc/test/ex_mallctl/build/CMakeFiles/ex_mallctl.dir
+/data/gus-gu/research-jemalloc/test/ex_mallctl/build/CMakeFiles/edit_cache.dir
+/data/gus-gu/research-jemalloc/test/ex_mallctl/build/CMakeFiles/rebuild_cache.dir

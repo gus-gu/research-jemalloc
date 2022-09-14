@@ -1,0 +1,492 @@
+[
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/arena.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/arena.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/arena.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/background_thread.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/background_thread.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/background_thread.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/base.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/base.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/base.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/bin.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/bin.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/bin.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/bin_info.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/bin_info.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/bin_info.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/bitmap.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/bitmap.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/bitmap.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/buf_writer.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/buf_writer.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/buf_writer.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/cache_bin.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/cache_bin.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/cache_bin.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/ckh.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/ckh.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/ckh.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/counter.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/counter.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/counter.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/ctl.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/ctl.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/ctl.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/decay.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/decay.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/decay.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/div.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/div.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/div.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/ecache.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/ecache.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/ecache.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/edata.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/edata.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/edata.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/edata_cache.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/edata_cache.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/edata_cache.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/ehooks.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/ehooks.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/ehooks.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/emap.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/emap.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/emap.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/eset.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/eset.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/eset.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/exp_grow.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/exp_grow.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/exp_grow.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/extent.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/extent.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/extent.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/extent_dss.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/extent_dss.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/extent_dss.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/extent_mmap.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/extent_mmap.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/extent_mmap.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/fxp.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/fxp.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/fxp.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/hook.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/hook.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/hook.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/hpa.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/hpa.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/hpa.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/hpa_hooks.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/hpa_hooks.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/hpa_hooks.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/hpdata.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/hpdata.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/hpdata.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/inspect.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/inspect.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/inspect.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/jemalloc.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/jemalloc.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/jemalloc.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang++-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/jemalloc_cpp.cpp.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/jemalloc_cpp.cpp",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/jemalloc_cpp.cpp"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/large.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/large.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/large.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/log.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/log.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/log.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/malloc_io.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/malloc_io.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/malloc_io.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/mutex.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/mutex.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/mutex.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/nstime.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/nstime.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/nstime.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/pa.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/pa.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/pa.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/pa_extra.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/pa_extra.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/pa_extra.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/pac.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/pac.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/pac.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/pages.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/pages.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/pages.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/pai.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/pai.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/pai.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/peak_event.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/peak_event.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/peak_event.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/prof.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/prof.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/prof.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/prof_data.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/prof_data.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/prof_data.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/prof_log.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/prof_log.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/prof_log.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/prof_recent.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/prof_recent.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/prof_recent.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/prof_stats.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/prof_stats.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/prof_stats.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/prof_sys.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/prof_sys.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/prof_sys.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/psset.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/psset.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/psset.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/rtree.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/rtree.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/rtree.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/safety_check.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/safety_check.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/safety_check.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/san.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/san.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/san.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/san_bump.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/san_bump.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/san_bump.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/sc.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/sc.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/sc.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/sec.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/sec.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/sec.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/stats.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/stats.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/stats.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/sz.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/sz.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/sz.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/tcache.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/tcache.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/tcache.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/test_hooks.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/test_hooks.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/test_hooks.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/thread_event.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/thread_event.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/thread_event.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/ticker.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/ticker.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/ticker.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/tsd.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/tsd.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/tsd.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/witness.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/witness.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/witness.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/src/zone.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/zone.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/src/zone.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/analyze/prof_bias.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/analyze/prof_bias.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/analyze/prof_bias.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/analyze/rand.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/analyze/rand.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/analyze/rand.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/analyze/sizes.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/analyze/sizes.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/analyze/sizes.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/integration/MALLOCX_ARENA.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/MALLOCX_ARENA.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/MALLOCX_ARENA.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/integration/aligned_alloc.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/aligned_alloc.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/aligned_alloc.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/integration/allocated.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/allocated.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/allocated.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/integration/extent.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/extent.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/extent.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/integration/malloc.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/malloc.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/malloc.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/integration/mallocx.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/mallocx.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/mallocx.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/integration/overflow.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/overflow.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/overflow.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/integration/posix_memalign.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/posix_memalign.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/posix_memalign.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/integration/rallocx.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/rallocx.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/rallocx.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/integration/sdallocx.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/sdallocx.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/sdallocx.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/integration/slab_sizes.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/slab_sizes.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/slab_sizes.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/integration/smallocx.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/smallocx.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/smallocx.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/integration/thread_arena.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/thread_arena.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/thread_arena.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/integration/thread_tcache_enabled.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/thread_tcache_enabled.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/thread_tcache_enabled.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/integration/xallocx.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/xallocx.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/integration/xallocx.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/src/SFMT.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/src/SFMT.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/src/SFMT.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/src/btalloc.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/src/btalloc.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/src/btalloc.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/src/btalloc_0.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/src/btalloc_0.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/src/btalloc_0.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/src/btalloc_1.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/src/btalloc_1.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/src/btalloc_1.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/src/math.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/src/math.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/src/math.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/src/mtx.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/src/mtx.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/src/mtx.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/src/sleep.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/src/sleep.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/src/sleep.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/src/test.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/src/test.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/src/test.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/src/thd.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/src/thd.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/src/thd.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/src/timer.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/src/timer.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/src/timer.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/stress/batch_alloc.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/stress/batch_alloc.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/stress/batch_alloc.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/stress/fill_flush.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/stress/fill_flush.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/stress/fill_flush.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/stress/hookbench.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/stress/hookbench.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/stress/hookbench.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/stress/large_microbench.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/stress/large_microbench.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/stress/large_microbench.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/stress/mallctl.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/stress/mallctl.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/stress/mallctl.c"
+},
+{
+  "directory": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/build",
+  "command": "/usr/bin/clang-13 -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/include -I/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/include -g -o CMakeFiles/jemalloc.dir/test/stress/microbench.c.o -c /data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/stress/microbench.c",
+  "file": "/data/gus-gu/research-jemalloc/contrib/jemalloc-5.3.0/test/stress/microbench.c"
+}
+]

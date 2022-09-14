@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/ex_mallctl.dir/ex_mallctl.c.o -o ex_mallctl  -ljemalloc 
